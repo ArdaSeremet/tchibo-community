@@ -111,6 +111,10 @@
 	overflow: hidden;
 	padding: 10px 30px;
 	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	background-image: url('/background.png');
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 .scrollable-overlay {
 	height: 100%;

@@ -138,7 +138,7 @@
             <div class="content">
                 <ul class="pers-buttons social-section">
                     <li class="social-buttons">
-                        <font-awesome-icon :icon="[ 'fab', 'instagram' ]"></font-awesome-icon>
+                        <font-awesome-icon v-on:click="popInstagramModal()" :icon="[ 'fab', 'instagram' ]"></font-awesome-icon>
                         <font-awesome-icon :icon="[ 'fab', 'twitter' ]"></font-awesome-icon>
                         <font-awesome-icon :icon="[ 'fab', 'facebook-square' ]"></font-awesome-icon>
                         <font-awesome-icon :icon="[ 'fab', 'whatsapp' ]"></font-awesome-icon>
@@ -155,6 +155,7 @@
     </div>
     <FlavorSelectorModal v-if="showModal" v-on:closeModal="closeModal()" v-on:selected="selectedFlavor" />
     <BeanSelectorModal v-if="showBeanModal" v-on:closeModal="closeBeanModal()" v-on:selected="selectedBean" v-bind:beans="modalBeans" />
+    <InstagramModal v-if="showInstagramModal" v-on:closeModal="closeInstagramModal()" />
 </div>    
 </template>
 <style scoped>
@@ -482,12 +483,14 @@ import Images from '@/assets/coffee-creator/images.json'
 import Beans from '@/assets/coffee-creator/beans.json'
 import FlavorSelectorModal from '@/components/FlavorSelectorModal.vue'
 import BeanSelectorModal from '@/components/BeanSelectorModal.vue'
+import InstagramModal from '@/components/InstagramModal.vue'
 
 export default {
     name: "CoffeeCreator",
     components: {
         FlavorSelectorModal,
-        BeanSelectorModal
+        BeanSelectorModal,
+        InstagramModal
     },
     data() {
         return {
@@ -511,7 +514,8 @@ export default {
             modalBeans: {},
             currentBeanType: 'caf',
             cafBean: 'Choose Coffee Beans...',
-            decafBean: 'Choose Decaffeinated Beans...'
+            decafBean: 'Choose Decaffeinated Beans...',
+            showInstagramModal: false
         }
     },
     created() {
@@ -578,6 +582,12 @@ export default {
         popFlavorModal: function (flavorNumber) {
             this.currentFlavorNumber = parseInt(flavorNumber)
             this.showModal = true
+        },
+        popInstagramModal: function () {
+            this.showInstagramModal = true
+        },
+        closeInstagramModal: function () {
+            this.showInstagramModal = false
         },
         closeModal: function () {
             this.showModal = false
