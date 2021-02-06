@@ -2,11 +2,27 @@
     "caf": {
         "1": {
             "number": "1",
-            "name": "Caf 1"
+            "name": "Arabica"
         },
         "2": {
             "number": "2",
-            "name": "Caf 2"
+            "name": "Colombian"
+        },
+        "3": {
+            "number": "3",
+            "name": "Guatemala"
+        },
+        "4": {
+            "number": "4",
+            "name": "Indonesian"
+        },
+        "5": {
+            "number": "5",
+            "name": "Brazilian"
+        },
+        "6": {
+            "number": "6",
+            "name": "Costa Rika"
         }
     },
     "decaf": {
