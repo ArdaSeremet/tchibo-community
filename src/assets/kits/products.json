@@ -1,0 +1,102 @@
+{
+    "1": {
+        "slug": "1",
+        "name": "Personal Coffee Kit",
+        "price": "19,99",
+        "ingredients": [
+            {
+                "amount": 1,
+                "name": "Filter Coffee Mug"
+            },
+            {
+                "amount": 1,
+                "name": "Coffee Filter"
+            }
+        ],
+        "forWhom": "Introducing the \"Personal Coffee Kit\" with the cup produced in accordance with the Coffee Filter. You can brew ground coffee in a high quality thanks to the \"Coffee Mug\" and \"Coffee Filters\" included in the kit."
+    },
+    "2": {
+        "slug": "2",
+        "name": "Beginner Level Coffee Kit",
+        "price": "29,99",
+        "ingredients": [
+            {
+                "amount": 1,
+                "name": "Coffee Blender"
+            },
+            {
+                "amount": 1,
+                "name": "Manual Coffee Infuser"
+            }
+        ],
+        "forWhom": "Specially collected for filter coffee lovers, this kit offers the user a unique experience thanks to the Coffee grinder and Manual Filter. You can try this kit specially developed for the beginner level with our flavored coffees."
+    },
+    "3": {
+        "slug": "3",
+        "name": "Espresso Kit",
+        "price": "39,99",
+        "ingredients": [
+            {
+                "amount": 1,
+                "name": "Mocha Pot"
+            },
+            {
+                "amount": 1,
+                "name": "Coffee Grinder"
+            },
+            {
+                "amount": 1,
+                "name": "Boiler"
+            }
+        ],
+        "forWhom": "Produced for espresso lovers, this kit allows you to provide the hot water for the cahe thanks to the water boiler in this kit, besides, it allows you to taste the intense coffee aroma thanks to the \"Mocha Pot\" included in the kit."
+    },
+    "4": {
+        "slug": "4",
+        "name": "Medium Level Coffee Kit",
+        "price": "59,99",
+        "ingredients": [
+            {
+                "amount": 1,
+                "name": "Manual Coffee Infuser"
+            },
+            {
+                "amount": 1,
+                "name": "Coffee Grinder"
+            },
+            {
+                "amount": 1,
+                "name": "Milk Frother"
+            },
+            {
+                "amount": 1,
+                "name": "Boiler"
+            }
+        ],
+        "forWhom": "This kit, which is considered as a medium level for filter coffee, increases your coffee pleasure one step further thanks to the \"Water Boiler\" and \"Milk Frother\" included in it compared to the beginner level."
+    },
+    "5": {
+        "slug": "5",
+        "name": "Medium Level Espresso Kit",
+        "price": "59,99",
+        "ingredients": [
+            {
+                "amount": 1,
+                "name": "Mocha Pot"
+            },
+            {
+                "amount": 1,
+                "name": "Coffee Grinder"
+            },
+            {
+                "amount": 1,
+                "name": "Milk Frother"
+            },
+            {
+                "amount": 1,
+                "name": "Boiler"
+            }
+        ],
+        "forWhom": "This kit, which is considered as a medium level for espresso, increases your espresso pleasure one step further thanks to the \"Water Boiler\" and \"Milk Frother\" included in it compared to the beginner level."
+    }
+}

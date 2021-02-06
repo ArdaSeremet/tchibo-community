@@ -1,0 +1,176 @@
+{
+    "global": [
+        {
+            "slug": "heycatch",
+            "name": "Hey Catch",
+            "beans": "Ethiopia Coffee Beans",
+            "ingredients": [
+                {
+                    "name": "Orange",
+                    "defaultPercentage": 35
+                },
+                {
+                    "name": "Cinnamon",
+                    "defaultPercentage": 65
+                }
+            ],
+            "madeBy": "Johnny Bravo",
+            "price": "6,99"
+        },
+        {
+            "slug": "surf",
+            "name": "Surf Like a Shark",
+            "beans": "Colombia Coffee Beans",
+            "ingredients": [
+                {
+                    "name": "Berry",
+                    "defaultPercentage": 35
+                },
+                {
+                    "name": "Dark Chocolate",
+                    "defaultPercentage": 65
+                }
+            ],
+            "madeBy": "Gumball & Darwin",
+            "price": "6,99"
+        },
+        {
+            "slug": "doge",
+            "name": "Doge in the House",
+            "beans": "Arabica Coffee Beans",
+            "ingredients": [
+                {
+                    "name": "Cinnamon",
+                    "defaultPercentage": 35
+                },
+                {
+                    "name": "Grape",
+                    "defaultPercentage": 65
+                }
+            ],
+            "madeBy": "DogeBoi",
+            "price": "6,99"
+        },
+        {
+            "slug": "frog",
+            "name": "Sad Frog",
+            "beans": "Guatemala Coffee Beans",
+            "ingredients": [
+                {
+                    "name": "Caramel",
+                    "defaultPercentage": 25
+                },
+                {
+                    "name": "Hazelnut",
+                    "defaultPercentage": 75
+                }
+            ],
+            "madeBy": "Crazy Frog",
+            "price": "6,99"
+        },
+        {
+            "slug": "chill",
+            "name": "Chill Gaming",
+            "beans": "Brazilian Coffee Beans",
+            "ingredients": [
+                {
+                    "name": "Apple",
+                    "defaultPercentage": 45
+                },
+                {
+                    "name": "Orange",
+                    "defaultPercentage": 55
+                }
+            ],
+            "madeBy": "Atari Boy",
+            "price": "6,99"
+        }
+    ],
+    "local": [
+        {
+            "slug": "wake",
+            "name": "Wake Up",
+            "beans": "Arabica Coffee Beans",
+            "ingredients": [
+                {
+                    "name": "Peanut",
+                    "defaultPercentage": 45
+                },
+                {
+                    "name": "White Chocolate",
+                    "defaultPercentage": 55
+                }
+            ],
+            "madeBy": "Blue Cat",
+            "price": "6,99"
+        },
+        {
+            "slug": "creepy",
+            "name": "Creepy Taste",
+            "beans": "Guatemala Coffee Beans",
+            "ingredients": [
+                {
+                    "name": "Mastic Gum",
+                    "defaultPercentage": 45
+                },
+                {
+                    "name": "Green Grape",
+                    "defaultPercentage": 55
+                }
+            ],
+            "madeBy": "Diamond Girl",
+            "price": "6,99"
+        },
+        {
+            "slug": "sneaky",
+            "name": "Sneaky Kitten",
+            "beans": "Indonesian Coffee Beans",
+            "ingredients": [
+                {
+                    "name": "Vanilla",
+                    "defaultPercentage": 45
+                },
+                {
+                    "name": "Orange",
+                    "defaultPercentage": 55
+                }
+            ],
+            "madeBy": "CuteKitten",
+            "price": "6,99"
+        },
+        {
+            "slug": "among",
+            "name": "There is a Sleepy Amond Us",
+            "beans": "Indonesian Coffee Beans",
+            "ingredients": [
+                {
+                    "name": "Blueberry",
+                    "defaultPercentage": 25
+                },
+                {
+                    "name": "Strawberry",
+                    "defaultPercentage": 75
+                }
+            ],
+            "madeBy": "Suspect",
+            "price": "6,99"
+        },
+        {
+            "slug": "ninja",
+            "name": "Ninja Blend",
+            "beans": "Colombian Coffee Beans",
+            "ingredients": [
+                {
+                    "name": "Vanilla",
+                    "defaultPercentage": 25
+                },
+                {
+                    "name": "Apple",
+                    "defaultPercentage": 75
+                }
+            ],
+            "madeBy": "Otaku",
+            "price": "6,99"
+        }
+    ]
+}

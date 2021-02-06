@@ -1,0 +1,142 @@
+[
+    {
+        "slug": "columbian0",
+        "name": "Chocolate & Caramel Flavored",
+        "beans": "Columbian Coffee Beans",
+        "ingredients": [
+            {
+                "imageSource": "chocolate.png",
+                "defaultPercentage": 65
+            },
+            {
+                "imageSource": "caramel.png",
+                "defaultPercentage": 35
+            }
+        ],
+        "beanDescription": "This Colombian marvel erupts on the palate with a juicy feel and robust flavours, a testament to the  hearty riches of volcanic soils. Its remarkable finish, medium-bodied and dry with hints of walnut, liftsthis superior coffee into a class of its own. One sip and you’ll agree it’s worth every step of the climb.",
+        "availableAmounts": [
+            "250", "500", "1000"
+        ],
+        "price": "19,99"
+    },
+    {
+        "slug": "arabica0",
+        "name": "White Chocolate & Berry Mix",
+        "beans": "Arabica Coffee Beans",
+        "ingredients": [
+            {
+                "imageSource": "chocolate.png",
+                "defaultPercentage": 45
+            },
+            {
+                "imageSource": "berry.png",
+                "defaultPercentage": 55
+            }
+        ],
+        "beanDescription": "Arabica beans are the main variety of coffee beans that are consumed by the world. They are considered a “high quality” bean. Overall, these beans are higher in acidity. This acidity is desirable because it gives the coffee complexity and can even give fruity notes to the coffee. The flavor of this coffee is dependent on where the coffee is grown.",
+        "availableAmounts": [
+            "100", "250", "500"
+        ],
+        "price": "19,99"
+    },
+    {
+        "slug": "costarika0",
+        "name": "Orange & Cardamom Mix",
+        "beans": "Costa Rika Coffee Beans",
+        "ingredients": [
+            {
+                "imageSource": "orange.png",
+                "defaultPercentage": 50
+            },
+            {
+                "imageSource": "cardamom.png",
+                "defaultPercentage": 50
+            }
+        ],
+        "beanDescription": "If you haven’t tried a cup of Costa Rican coffee, you’ve been missing out. The country produces consistently high-quality Arabica beans with compelling flavors of chocolate and ripe fruit. In fact, some say Costa Rican coffees have the best flavor profile in the world.",
+        "availableAmounts": [
+            "100", "250", "500"
+        ],
+        "price": "19,99"
+    },
+    {
+        "slug": "brazilian0",
+        "name": "Chocolate & Hazelnut Mix",
+        "beans": "Brazillian Coffee Beans",
+        "ingredients": [
+            {
+                "imageSource": "chocolate.png",
+                "defaultPercentage": 20
+            },
+            {
+                "imageSource": "hazelnut.png",
+                "defaultPercentage": 80
+            }
+        ],
+        "beanDescription": "Brazil is the world's leading grower and exporter of coffee beans, with a mellow flavor that makes for a very typical dark roast. About one-third of all of the world's coffee is grown in Brazil, and much of Brazil's premium coffee is labeled Santos after the port it is shipped through.",
+        "availableAmounts": [
+            "100", "250", "500"
+        ],
+        "price": "19,99"
+    },
+    {
+        "slug": "guatemala0",
+        "name": "Cardamom & Cinnamon  Mix",
+        "beans": "Guatemala Coffee Beans",
+        "ingredients": [
+            {
+                "imageSource": "cardamom.png",
+                "defaultPercentage": 55
+            },
+            {
+                "imageSource": "cinnamon.png",
+                "defaultPercentage": 45
+            }
+        ],
+        "beanDescription": "Guatemala has one of the most diverse climates in terms of coffee production. An array of unique microclimates and complex coffee-growing conditions results in a huge selection of varying flavor profiles and qualities.This surplus of options can be both a blessing and a curse. Sometimes finding the perfect cup of Guatemalan coffee can feel a bit overwhelming.",
+        "availableAmounts": [
+            "100", "250", "500"
+        ],
+        "price": "19,99"
+    },
+    {
+        "slug": "colombian0",
+        "name": "Caramel & Peanut Mix",
+        "beans": "Colombian Coffee Beans",
+        "ingredients": [
+            {
+                "imageSource": "caramel.png",
+                "defaultPercentage": 50
+            },
+            {
+                "imageSource": "peanut.png",
+                "defaultPercentage": 50
+            }
+        ],
+        "beanDescription": "This Colombian marvel erupts on the palate with a juicy feel and robust flavours, a testament to the  hearty riches of volcanic soils. Its remarkable finish, medium-bodied and dry with hints of walnut, liftsthis superior coffee into a class of its own. One sip and you’ll agree it’s worth every step of the climb.",
+        "availableAmounts": [
+            "100", "250", "500"
+        ],
+        "price": "19,99"
+    },
+    {
+        "slug": "indonesian0",
+        "name": "Vanilla & Cinnamon Mix",
+        "beans": "Indonesian Coffee Beans",
+        "ingredients": [
+            {
+                "imageSource": "vanilla.png",
+                "defaultPercentage": 65
+            },
+            {
+                "imageSource": "cinnamon.png",
+                "defaultPercentage": 35
+            }
+        ],
+        "beanDescription": "The best farm-to-cup Indonesian coffees come from three regions: Sulawesi, Sumatra, and Java. Of the three regions, Java is the most productive and noted for Arabica coffee with bright acidity and a clean, fruity profile. Today, about 90% of Indonesian coffee is from the Robusta species, now commonly used for commercial-grade coffee.",
+        "availableAmounts": [
+            "100", "250", "500"
+        ],
+        "price": "19,99"
+    }
+]

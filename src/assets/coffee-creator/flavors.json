@@ -1,0 +1,42 @@
+{
+    "1": {
+        "number": "1",
+        "name": "Chocolate"
+    },
+    "2": {
+        "number": "2",
+        "name": "Cinnamon"
+    },
+    "3": {
+        "number": "3",
+        "name": "Berry"
+    },
+    "4": {
+        "number": "4",
+        "name": "White Chocolate"
+    },
+    "5": {
+        "number": "5",
+        "name": "Cardamom"
+    },
+    "6": {
+        "number": "6",
+        "name": "Orange"
+    },
+    "7": {
+        "number": "7",
+        "name": "Hazelnut"
+    },
+    "8": {
+        "number": "8",
+        "name": "Peanut"
+    },
+    "9": {
+        "number": "9",
+        "name": "Vanilla"
+    },
+    "10": {
+        "number": "10",
+        "name": "Caramel"
+    }
+}
