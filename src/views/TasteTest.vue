@@ -179,7 +179,7 @@ export default {
         handleAnswers: function (result) {
             this.showQuiz = false
             this.results[result.number] = result
-            if(result.number != "5") {
+            if(result.number != "4") {
                 this.currentQuestion = this.questions[(parseInt(result.number) + 1).toString()]
                 this.showQuiz = true
             } else {

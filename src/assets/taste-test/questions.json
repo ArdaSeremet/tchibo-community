@@ -25,14 +25,6 @@
     },
     "4": {
         "number": "4",
-        "title": "How often do you consume coffee?",
-        "a": "Everyday",
-        "b": "2-3 Times a week",
-        "c": "Once a week",
-        "d": "I've just started"
-    },
-    "5": {
-        "number": "5",
         "title": "How about the hardness?",
         "a": "Decaffeinated",
         "b": "Beginner",
